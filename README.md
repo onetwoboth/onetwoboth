@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @onetwoboth
+- 👋 Hi, I’m @onetwoboth, a student from USTC, majoring data science.
 - 👀 I’m interested in Python/Cpp
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me --- chr2301137125@mail.ustc.edu.cn
