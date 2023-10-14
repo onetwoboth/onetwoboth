@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @onetwoboth
-- 👀 I’m interested in Python/Java
+- 👀 I’m interested in Python/Cpp
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me --- chr2301137125@mail.ustc.edu.cn
 
