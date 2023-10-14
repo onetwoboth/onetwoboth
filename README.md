@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @onetwoboth, a student from USTC, majoring data science.
-- 👀 I’m interested in Python/Cpp
-- 🌱 I’m currently learning machine learning
-- 📫 How to reach me --- chr2301137125@mail.ustc.edu.cn
+- 👋 Hi, I’m @onetwoboth, a student from USTC, majoring data science
+- 👀 Language preference: python, cpp
+- 📫 Reach me --- chr2301137125@mail.ustc.edu.cn
 
 <!---
 onetwoboth/onetwoboth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
